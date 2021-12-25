@@ -1,0 +1,12 @@
+D:\ParkingSystem\ParkingSystem\bin\Debug\ParkingSystem.exe.config
+D:\ParkingSystem\ParkingSystem\bin\Debug\ParkingSystem.exe
+D:\ParkingSystem\ParkingSystem\bin\Debug\ParkingSystem.pdb
+D:\ParkingSystem\ParkingSystem\bin\Debug\ParkingSystem.dll
+D:\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem3.1.csproj.AssemblyReference.cache
+D:\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem.FrmMain.resources
+D:\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem.Properties.Resources.resources
+D:\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem3.1.csproj.GenerateResource.cache
+D:\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem3.1.csproj.CoreCompileInputs.cache
+D:\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem3.1.csproj.CopyComplete
+D:\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem.exe
+D:\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem.pdb

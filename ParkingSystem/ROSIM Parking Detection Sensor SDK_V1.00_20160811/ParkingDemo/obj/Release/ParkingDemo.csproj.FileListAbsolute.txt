@@ -1,0 +1,22 @@
+D:\工作\停车场新20160321\软件\CJ\ParkView20160512--添加安装部署\SensorView20160506--节点过滤功能取消2\SensorView20160429--节点过滤功能取消2\SensorView\ParkingDemo\bin\Release\ParkingDemo.exe.config
+D:\工作\停车场新20160321\软件\CJ\ParkView20160512--添加安装部署\SensorView20160506--节点过滤功能取消2\SensorView20160429--节点过滤功能取消2\SensorView\ParkingDemo\bin\Release\ParkingDemo.exe
+D:\工作\停车场新20160321\软件\CJ\ParkView20160512--添加安装部署\SensorView20160506--节点过滤功能取消2\SensorView20160429--节点过滤功能取消2\SensorView\ParkingDemo\bin\Release\ParkingDemo.pdb
+D:\工作\停车场新20160321\软件\CJ\ParkView20160512--添加安装部署\SensorView20160506--节点过滤功能取消2\SensorView20160429--节点过滤功能取消2\SensorView\ParkingDemo\bin\Release\ParkingSystem.dll
+D:\工作\停车场新20160321\软件\CJ\ParkView20160512--添加安装部署\SensorView20160506--节点过滤功能取消2\SensorView20160429--节点过滤功能取消2\SensorView\ParkingDemo\obj\Release\ParkingDemo.csprojResolveAssemblyReference.cache
+D:\工作\停车场新20160321\软件\CJ\ParkView20160512--添加安装部署\SensorView20160506--节点过滤功能取消2\SensorView20160429--节点过滤功能取消2\SensorView\ParkingDemo\obj\Release\ParkingDemo.Form1.resources
+D:\工作\停车场新20160321\软件\CJ\ParkView20160512--添加安装部署\SensorView20160506--节点过滤功能取消2\SensorView20160429--节点过滤功能取消2\SensorView\ParkingDemo\obj\Release\ParkingDemo.Properties.Resources.resources
+D:\工作\停车场新20160321\软件\CJ\ParkView20160512--添加安装部署\SensorView20160506--节点过滤功能取消2\SensorView20160429--节点过滤功能取消2\SensorView\ParkingDemo\obj\Release\ParkingDemo.csproj.GenerateResource.Cache
+D:\工作\停车场新20160321\软件\CJ\ParkView20160512--添加安装部署\SensorView20160506--节点过滤功能取消2\SensorView20160429--节点过滤功能取消2\SensorView\ParkingDemo\obj\Release\ParkingDemo.exe
+D:\工作\停车场新20160321\软件\CJ\ParkView20160512--添加安装部署\SensorView20160506--节点过滤功能取消2\SensorView20160429--节点过滤功能取消2\SensorView\ParkingDemo\obj\Release\ParkingDemo.pdb
+C:\Users\Administrator\Desktop\ROSIM Parking Detection Sensor SDK_V1.00_20160811\ParkingDemo\bin\Release\ParkingDemo.exe.config
+C:\Users\Administrator\Desktop\ROSIM Parking Detection Sensor SDK_V1.00_20160811\ParkingDemo\bin\Release\ParkingDemo.exe
+C:\Users\Administrator\Desktop\ROSIM Parking Detection Sensor SDK_V1.00_20160811\ParkingDemo\bin\Release\ParkingDemo.pdb
+C:\Users\Administrator\Desktop\ROSIM Parking Detection Sensor SDK_V1.00_20160811\ParkingDemo\bin\Release\ParkingSystem.dll
+C:\Users\Administrator\Desktop\ROSIM Parking Detection Sensor SDK_V1.00_20160811\ParkingDemo\obj\Release\ParkingDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ROSIM Parking Detection Sensor SDK_V1.00_20160811\ParkingDemo\obj\Release\ParkingDemo.Form1.resources
+C:\Users\Administrator\Desktop\ROSIM Parking Detection Sensor SDK_V1.00_20160811\ParkingDemo\obj\Release\ParkingDemo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ROSIM Parking Detection Sensor SDK_V1.00_20160811\ParkingDemo\obj\Release\ParkingDemo.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ROSIM Parking Detection Sensor SDK_V1.00_20160811\ParkingDemo\obj\Release\ParkingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ROSIM Parking Detection Sensor SDK_V1.00_20160811\ParkingDemo\obj\Release\ParkingDemo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ROSIM Parking Detection Sensor SDK_V1.00_20160811\ParkingDemo\obj\Release\ParkingDemo.exe
+C:\Users\Administrator\Desktop\ROSIM Parking Detection Sensor SDK_V1.00_20160811\ParkingDemo\obj\Release\ParkingDemo.pdb

@@ -1,0 +1,1 @@
+D:\工作\停车场新20160321\软件\CJ\ParkView20160512--添加安装部署\SensorView20160506--节点过滤功能取消2\SensorView20160429--节点过滤功能取消2\SensorView\ParkingDemo\bin\Debug\ConsoleApplication.exe.config

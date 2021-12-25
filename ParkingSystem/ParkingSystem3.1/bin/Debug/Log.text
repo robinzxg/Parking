@@ -1,0 +1,174 @@
+[2021/10/27 11:05:25]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+[2021/10/27 11:15:28]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+[2021/10/27 11:20:15]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+[2021/10/27 11:33:59]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/10/27 11:35:43]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/10/27 11:46:55]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/10/27 11:47:41]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/10/27 11:59:55]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/10/27 12:00:45]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/10/27 15:27:18]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+[2021/10/28 15:55:56]  erro：Database connection exception!
+[2021/10/28 16:51:27]  erro：Database connection exception!
+[2021/10/28 23:39:19]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：关键字 'from' 附近有语法错误。
+[2021/10/29 0:34:27]  erro：Database connection exception!
+[2021/10/29 0:36:22]  erro：Database connection exception!
+[2021/10/29 0:40:25]  erro：Database connection exception!
+[2021/10/29 0:41:36]  erro：Database connection exception!
+[2021/10/29 0:42:21]  erro：Database connection exception!
+[2021/10/29 0:43:34]  erro：Database connection exception!
+[2021/10/29 0:51:02]  erro：Database connection exception!
+[2021/10/29 1:12:20]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+[2021/10/29 1:13:14]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+[2021/11/1 1:09:38]  erro：Database connection exception!
+[2021/11/1 1:10:35]  erro：Database connection exception!
+[2021/11/1 1:10:37]  erro：Database connection exception!
+[2021/11/1 1:10:42]  erro：Database connection exception!
+[2021/11/1 1:10:44]  erro：Database connection exception!
+[2021/11/1 1:11:08]  erro：Database connection exception!
+[2021/11/1 1:11:10]  erro：Database connection exception!
+[2021/11/1 1:11:15]  erro：Database connection exception!
+[2021/11/1 1:11:17]  erro：Database connection exception!
+[2021/11/1 1:11:41]  erro：Database connection exception!
+[2021/11/1 1:11:43]  erro：Database connection exception!
+[2021/11/1 1:11:48]  erro：Database connection exception!
+[2021/11/1 1:11:50]  erro：Database connection exception!
+[2021/11/1 1:12:14]  erro：Database connection exception!
+[2021/11/1 1:12:16]  erro：Database connection exception!
+[2021/11/1 1:12:21]  erro：Database connection exception!
+[2021/11/1 1:12:23]  erro：Database connection exception!
+[2021/11/1 1:12:47]  erro：Database connection exception!
+[2021/11/1 1:12:49]  erro：Database connection exception!
+[2021/11/1 1:12:54]  erro：Database connection exception!
+[2021/11/1 1:12:56]  erro：Database connection exception!
+[2021/11/1 1:13:53]  erro：Database connection exception!
+[2021/11/1 1:13:55]  erro：Database connection exception!
+[2021/11/1 1:14:00]  erro：Database connection exception!
+[2021/11/1 1:14:02]  erro：Database connection exception!
+[2021/11/1 1:14:21]  erro：Database connection exception!
+[2021/11/1 1:14:26]  erro：Database connection exception!
+[2021/11/1 1:14:29]  erro：Database connection exception!
+[2021/11/1 1:14:33]  erro：Database connection exception!
+[2021/11/1 1:14:35]  erro：Database connection exception!
+[2021/11/1 1:14:59]  erro：Database connection exception!
+[2021/11/1 1:15:01]  erro：Database connection exception!
+[2021/11/1 1:15:06]  erro：Database connection exception!
+[2021/11/1 1:15:08]  erro：Database connection exception!
+[2021/11/1 1:15:32]  erro：Database connection exception!
+[2021/11/1 1:15:34]  erro：Database connection exception!
+[2021/11/1 1:15:39]  erro：Database connection exception!
+[2021/11/1 1:15:41]  erro：Database connection exception!
+[2021/11/1 1:16:38]  erro：Database connection exception!
+[2021/11/1 1:16:40]  erro：Database connection exception!
+[2021/11/1 1:16:45]  erro：Database connection exception!
+[2021/11/1 1:16:47]  erro：Database connection exception!
+[2021/11/1 1:18:24]  erro：Database connection exception!
+[2021/11/1 1:19:03]  erro：Database connection exception!
+[2021/11/1 1:20:11]  erro：Database connection exception!
+[2021/11/1 1:21:29]  erro：Database connection exception!
+[2021/11/1 1:53:00]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+[2021/11/1 1:54:03]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+[2021/11/1 1:56:21]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+[2021/11/1 10:59:07]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+[2021/11/1 11:18:33]  erro：Database connection exception!
+[2021-11-03 18:47:38]  erro：Database connection exception!
+[2021-11-03 18:48:14]  erro：Database connection exception!
+[2021-11-03 18:49:03]  erro：Database connection exception!
+[2021-11-03 18:53:42]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/11/4 23:27:35]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/11/11 14:56:27]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/11/11 14:56:58]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/11/12 21:05:01]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/11/12 21:05:22]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/11/12 21:06:49]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/11/13 15:55:34]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/11/13 15:56:27]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/11/15 16:07:46]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/11/15 16:09:08]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/11/16 10:59:04]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/11/16 10:59:10]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/11/16 10:59:13]  erro：Database connection exception!
+[2021/11/16 10:59:13]  erro：Database connection exception!
+[2021/11/16 10:59:16]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/11/16 10:59:17]  erro：Database connection exception!
+[2021/11/16 10:59:18]  erro：Database connection exception!
+[2021/11/16 10:59:19]  erro：Database connection exception!
+[2021/11/16 10:59:21]  erro：Database connection exception!
+[2021/11/16 10:59:52]  erro：Database connection exception!
+[2021/11/16 10:59:53]  erro：Database connection exception!
+[2021/11/16 10:59:56]  erro：Database connection exception!
+[2021/11/29 20:43:21]  erro：执行 public static SqlDataReader GetReader(string sql)  erro：用户 'sa' 登录失败。
+[2021/12/21 10:10:49]  错误信息：执行Update(string sql)方法发生错误，错误日志：The database file is locked
+database is locked
+[2021/12/21 10:11:58]  错误信息：执行Update(string sql)方法发生错误，错误日志：The database file is locked
+database is locked
+[2021/12/21 10:15:06]  错误信息：执行Update(string sql)方法发生错误，错误日志：The database file is locked
+database is locked
+[2021/12/21 10:26:03]  错误信息：执行Update(string sql)方法发生错误，错误日志：The database file is locked
+database is locked
+[2021/12/21 10:26:33]  错误信息：执行Update(string sql)方法发生错误，错误日志：The database file is locked
+database is locked
+[2021/12/21 11:03:42]  错误信息：执行Update(string sql)方法发生错误，错误日志：The database file is locked
+database is locked
+[2021/12/21 13:54:35]  错误信息：执行Update(string sql)方法发生错误，错误日志：The database file is locked
+database is locked
+[2021/12/21 13:55:24]  错误信息：执行Update(string sql)方法发生错误，错误日志：The database file is locked
+database is locked
+[2021/12/21 13:55:54]  错误信息：执行Update(string sql)方法发生错误，错误日志：The database file is locked
+database is locked
+[2021/12/21 13:57:11]  错误信息：执行Update(string sql)方法发生错误，错误日志：The database file is locked
+database is locked
+[2021/12/21 13:59:07]  错误信息：执行Update(string sql)方法发生错误，错误日志：The database file is locked
+database is locked
+[2021/12/21 14:09:15]  错误信息：执行Update(string sql)方法发生错误，错误日志：The database file is locked
+database is locked
+[2021/12/21 14:11:28]  错误信息：执行Update(string sql)方法发生错误，错误日志：The database file is locked
+database is locked
+[2021/12/22 11:42:21]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 11:43:08]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 11:44:20]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 11:44:28]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 11:44:34]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 11:44:50]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 12:49:12]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 12:49:37]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 12:49:49]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 12:49:58]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 12:50:02]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 12:50:11]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 12:50:16]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 13:40:00]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 13:40:07]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 13:40:18]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 13:40:21]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 13:44:11]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 13:44:17]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 13:44:20]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 13:44:26]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 13:44:32]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 13:44:37]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
+[2021/12/22 13:47:56]  错误信息：执行Update(string sql)方法发生错误，错误日志：SQLite error
+3 values for 4 columns
